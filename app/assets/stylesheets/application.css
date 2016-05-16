@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  background-color: #88CC88
+}
+
+.jumbotron {
+  background-color: #88CC88
+}
+
+.form-inputs {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cancel-account  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
